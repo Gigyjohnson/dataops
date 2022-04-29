@@ -1,3 +1,4 @@
 create database dataop1
-select * from dataop1
+use dataop1
 create table table1
+select * from table1
