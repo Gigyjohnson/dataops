@@ -1,0 +1,3 @@
+create database dataop1
+select * from dataop1
+create table table1
